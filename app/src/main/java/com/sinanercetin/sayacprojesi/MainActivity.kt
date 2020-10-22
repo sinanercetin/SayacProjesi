@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
             }
 
             override fun onFinish() {
-                textView.text="Süre Bitti Baboli"
+                textView.text="Süre Bitti"
             }
 
         }.start()
